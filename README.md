@@ -1,2 +1,6 @@
 # hello-world
-A place where I store ideas, resources, or even share and discuss things with others.
+
+Hello GitHubbers!
+
+LadieCoder here. I like HTML, CSS, JavaScript (that's what I'm learning).
+I also like artistic stuff. So I like learning digital drawing and graphic art. 
